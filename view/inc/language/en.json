@@ -1,0 +1,16 @@
+{
+    "en" : {
+        "Inicio" : "Home",
+        "Peliculas" : "Movies",
+        "Servicios" : "Services",
+        "Precios" : "Prices",
+        "Portfolio" : "Portfolio",
+        "Tienda" : "Shop",
+        "Sobre nosotros" : "About us",
+        "Contacta con nosotros" : "Contact us",
+
+        "Valenciano": "Va",
+        "Castellano": "Es",
+         "Inglés": "En" 
+    }
+}

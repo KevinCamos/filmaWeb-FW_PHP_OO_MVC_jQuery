@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<functions>
+    <function>
+        <name>list</name>
+        <uri>list</uri>
+    </function>
+
+    <function>
+        <name>countCart</name>
+        <uri>countCart</uri>
+    </function>
+    <function>
+        <name>addLine</name>
+        <uri>addLine</uri>
+    </function>
+    <function>
+        <name>getCart</name>
+        <uri>getCart</uri>
+    </function>
+    <function>
+        <name>updateAmount</name>
+        <uri>updateAmount</uri>
+    </function>
+    <function>
+        <name>totalPrice</name>
+        <uri>totalPrice</uri>
+    </function>
+    <function>
+        <name>getAlbaran</name>
+        <uri>getAlbaran</uri>
+    </function>
+    <function>
+        <name>getTotalCart</name>
+        <uri>getTotalCart</uri>
+    </function>
+    <function>
+        <name>endCart</name>
+        <uri>endCart</uri>
+    </function>
+    <!--  <function>
+        <name>recoveredMail</name>
+        <uri>recoveredMail</uri>
+    </function>
+    <function>
+        <name>recoveredPassword</name>
+        <uri>recoveredPassword</uri>
+    </function>    
+    <function>
+        <name>changePassword</name>
+        <uri>changePassword</uri>
+    </function> -->
+</functions>
